@@ -1,15 +1,13 @@
 # LAB - Class 03
 
-## Project:server-deployment-practice
+## Project:Express REST API
 
 ### Author: Mohammad Amjad Alazzam
 
 ### Links and Resources
 
-- [ci/cd](https://github.com/MohdAzzam/server-deployment-practice/actions)
-- [back-end server -dev](https://azzam-server-deploy-dev.herokuapp.com/)
-- [back-end server -prod](https://azzam-server-deploy-prod.herokuapp.com/)
-
+- [ci/cd](https://github.com/MohdAzzam/basic-api-server/actions)
+- [back-end server -dev](https://azzam-basic-api.herokuapp.com/)
 
 ### Setup
 
